@@ -4,7 +4,7 @@
 
 <h1 align="center">Amadeus</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到我的Github主页;热衷于💻编程与🌱学习;让我们一起进步!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=13173251980ww-sys&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 ## 💬 联系方式
