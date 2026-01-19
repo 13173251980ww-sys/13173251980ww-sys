@@ -14,9 +14,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=13173251980ww-sys" />
-</p>
-
-<p align="center">
   <b>感谢你的访问，愿你每天进步！</b> ✨
 </p>
