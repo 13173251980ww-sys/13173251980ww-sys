@@ -4,7 +4,7 @@
 
 <h1 align="center">Amadeus</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=13173251980ww-sys&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="./Kurisu.jpg" alt="stats"/>
 </p>
 
 ## 💬 联系方式
