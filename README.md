@@ -7,7 +7,7 @@
   <img src="./blogbg.jpg" alt="stats"/>
 </p>
 
-## 🛠️ 技术栈
+<h2 align="center">🛠️ 技术栈</h2>
 
 <p align="center">
   <!-- 语言 -->
@@ -25,9 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="36" height="36"/>
 </p>
 
-## 💬 联系方式
+<h2 align="center">💬 联系方式</h2>
 
-- 🌏 博客/网站: [amadeusCristina.site](#)
+<p align="center">
+  🌏 博客/网站: <a href="#">amadeusCristina.site</a>
+</p>
 
 ---
 
