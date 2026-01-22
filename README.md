@@ -16,15 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/css.png" alt="USS" width="36" height="36"/> <!-- USS 使用CSS图标，因为无专属icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/UXML_Logo.svg" alt="UXML" width="36" height="36"/> <!-- 若找不到可换为HTML图标 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
 </p>
 <p align="center">
   <!-- 框架和引擎 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" width="36" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/RPG_Maker_logo.png" alt="RPG Maker" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="36" height="36"/>
 </p>
 
