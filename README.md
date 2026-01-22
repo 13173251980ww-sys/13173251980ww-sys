@@ -25,6 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="36" height="36"/>
 </p>
 
+<h2 align="center">📊 语言使用占比</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13173251980ww-sys&layout=pie&hide_title=true" alt="repo language pie chart"/>
+</p>
+
 <h2 align="center">💬 联系方式</h2>
 
 <p align="center">
